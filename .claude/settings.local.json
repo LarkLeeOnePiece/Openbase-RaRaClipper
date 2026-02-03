@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git checkout:*)",
+      "WebFetch(domain:dl.acm.org)",
+      "Read(//d/Projects/3DGS_Interaction/RaRa/**)",
+      "Bash(git -C \"d:/Projects/3DGS_Interaction/RaRaClipper\" log --oneline --graph --all -15)"
+    ]
+  }
+}
