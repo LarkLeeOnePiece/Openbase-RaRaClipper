@@ -33,7 +33,7 @@
 This project builds upon excellent prior work:
 
 - **[Splatviz](https://github.com/Florian-Barthel/splatviz)** - Interactive 3D Gaussian Splatting Viewer by Florian Barthel
-- **[Multi-layer Gaussian Paper](https://hex-lab.io/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization/)** - Multi-layer Gaussian data representation, you can get some multi-layer Gaussian data from this project.
+- **[Multi-layer Gaussian](https://hex-lab.io/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization/)** - Multi-layer Gaussian data representation, you can get some multi-layer Gaussian data from this project.
 
 ---
 
