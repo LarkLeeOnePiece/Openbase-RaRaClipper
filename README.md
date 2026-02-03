@@ -102,7 +102,6 @@ For commercial licensing inquiries, please contact us and the original 3DGS pape
 If you find this work useful, please cite our paper:
 
 ```bibtex
-[PLACEHOLDER: Add BibTeX citation]
 @inproceedings{li2025rara,
   title={RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer},
   author={Li, Da and Jia, Donggang and Rajeh, Yousef and Engel, Dominik and Viola, Ivan},
