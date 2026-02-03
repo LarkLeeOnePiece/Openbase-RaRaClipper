@@ -24,6 +24,10 @@
 
 ---
 
+## 🖳 Related project
+**EVSplitting : An Efficient and Visually Consistent Splitting Algorithm for 3D Gaussian Splatting**
+- project code: https://github.com/LarkLeeOnePiece/EV-Splitting
+
 ## 🔗 Based on | 基于
 
 This project builds upon excellent prior work:
@@ -113,7 +117,6 @@ If you find this work useful, please cite our paper:
 ## 📧 Contact | 联系方式
 
 - **For implementation issues:** Open an issue on GitHub
-
 
 ---
 
