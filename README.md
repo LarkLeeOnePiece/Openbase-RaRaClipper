@@ -90,11 +90,8 @@ This project builds upon:
 
 ## 📄 License | 许可证
 
-This project is based on Gaussian Splatting, which is licensed for **non-commercial research and evaluation use only**. See [gaussian-splatting/LICENSE.md](gaussian-splatting/LICENSE.md) for details.
+This project is licensed under the [MIT LICENSE](LICENSE) and [3DGS License](gaussian-splatting\LICENSE.md).
 
-本项目基于 Gaussian Splatting，仅供**非商业研究和评估使用**。详见 [gaussian-splatting/LICENSE.md](gaussian-splatting/LICENSE.md)。
-
-For commercial licensing inquiries, please contact us and the original 3DGS paper authors.
 ---
 
 ## 📧 Citation | 引用
